@@ -1,0 +1,3 @@
+[submodule "include/SOEM"]
+	path = include/SOEM
+	url = https://github.com/OpenEtherCATsociety/SOEM.git
